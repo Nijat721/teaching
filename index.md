@@ -1,37 +1,18 @@
 ## Welcome my teaching page
 
-You can use the [editor on GitHub](https://github.com/Nijat721/teaching.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page is started for teaching purposes. Students can use it for getting access to teaching materials. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lectures
 
-### Markdown
+Lecture notes aregoing to be downlaoded here: 
+1) 
+2) 
+3) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tutoarial exercices
 
-```markdown
-Syntax highlighted code block
+Tutoarial exercises wil lbe psoted here
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Slides
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nijat721/teaching.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Contact
+### Any question for me? 
 
 Having trouble with understanding? Contact me [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
